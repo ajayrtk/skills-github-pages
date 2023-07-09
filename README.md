@@ -32,7 +32,7 @@ We need to use a blog-ready theme. For this activity, we will use a theme named 
 
 ### :keyboard: Activity: Configure your site
 
-1. Browse to the `_config.yml` file in the `my-pages` branch.
+1. Browse to the `_config.yml` file in the `my-pages` branch Ajay.
 1. In the upper right corner, open the file editor.
 1. Add a `theme:` set to **minima** so it shows in the `_config.yml` file as below:
    ```yml
